@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 20fba01b41fbe1342bddd70f8b4a97ac
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _whiteBlotch: {fileID: 2800000, guid: 1a68f5e29552bc745a74d3f8db813a6c, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

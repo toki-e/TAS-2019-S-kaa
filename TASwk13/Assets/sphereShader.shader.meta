@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 266c8f8a7e70dea419cd947e727b57b6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _sparkly: {fileID: 2800000, guid: e57d3e81ad8ebeb4191efb20b80c4a8c, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

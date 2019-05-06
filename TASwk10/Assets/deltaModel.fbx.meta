@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 6fc7faf56d55e894b85253a174c4171e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.001
+    100004: Bone.002
+    100006: Bone.002_end
+    100008: Bone.003
+    100010: Bone.015
+    100012: Bone.016
+    100014: Bone.016_end
+    100016: braidL1
+    100018: braidL2
+    100020: braidL3
+    100022: braidL4
+    100024: braidL4_end
+    100026: braidR1
+    100028: braidR2
+    100030: braidR3
+    100032: braidR4
+    100034: braidR4_end
+    100036: Cube
+    100038: cubeArmature
+    100040: delta
+    100042: deltaArm
+    100044: //RootNode
+    100046: footBackL
+    100048: footBackR
+    100050: footFrontL
+    100052: footFrontL_end
+    100054: footfrontR
+    100056: footfrontR_end
+    100058: head
+    100060: HipL
+    100062: hipR
+    100064: neck
+    100066: shinL
+    100068: shinR
+    100070: ShoulderL
+    100072: ShoulderL.001
+    100074: ShoulderL.002
+    100076: ShoulderL.003
+    100078: ShoulderL.004
+    100080: ShoulderL.005
+    100082: ShoulderL.006
+    100084: ShoulderL.006_end
+    100086: ShoulderL.007
+    100088: ShoulderL.007_end
+    100090: ShoulderR
+    100092: ShoulderR.001
+    100094: ShoulderR.002
+    100096: ShoulderR.003
+    100098: ShoulderR.004
+    100100: ShoulderR.005
+    100102: ShoulderR.005_end
+    100104: ShoulderR.006
+    100106: ShoulderR.007
+    100108: ShoulderR.007_end
+    100110: spine2
+    100112: spine3
+    100114: spineBase
+    100116: spineupper
+    100118: thighL
+    100120: thighR
+    100122: uglyBiped1
+    400000: Bone
+    400002: Bone.001
+    400004: Bone.002
+    400006: Bone.002_end
+    400008: Bone.003
+    400010: Bone.015
+    400012: Bone.016
+    400014: Bone.016_end
+    400016: braidL1
+    400018: braidL2
+    400020: braidL3
+    400022: braidL4
+    400024: braidL4_end
+    400026: braidR1
+    400028: braidR2
+    400030: braidR3
+    400032: braidR4
+    400034: braidR4_end
+    400036: Cube
+    400038: cubeArmature
+    400040: delta
+    400042: deltaArm
+    400044: //RootNode
+    400046: footBackL
+    400048: footBackR
+    400050: footFrontL
+    400052: footFrontL_end
+    400054: footfrontR
+    400056: footfrontR_end
+    400058: head
+    400060: HipL
+    400062: hipR
+    400064: neck
+    400066: shinL
+    400068: shinR
+    400070: ShoulderL
+    400072: ShoulderL.001
+    400074: ShoulderL.002
+    400076: ShoulderL.003
+    400078: ShoulderL.004
+    400080: ShoulderL.005
+    400082: ShoulderL.006
+    400084: ShoulderL.006_end
+    400086: ShoulderL.007
+    400088: ShoulderL.007_end
+    400090: ShoulderR
+    400092: ShoulderR.001
+    400094: ShoulderR.002
+    400096: ShoulderR.003
+    400098: ShoulderR.004
+    400100: ShoulderR.005
+    400102: ShoulderR.005_end
+    400104: ShoulderR.006
+    400106: ShoulderR.007
+    400108: ShoulderR.007_end
+    400110: spine2
+    400112: spine3
+    400114: spineBase
+    400116: spineupper
+    400118: thighL
+    400120: thighR
+    400122: uglyBiped1
+    2100000: lambert1
+    2100002: No Name
+    2300000: uglyBiped1
+    3300000: uglyBiped1
+    4300000: delta
+    4300002: uglyBiped1
+    4300004: Cube
+    9500000: //RootNode
+    13700000: Cube
+    13700002: delta
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
